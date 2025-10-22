@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshu1113" alt="shivanshu1113" /></a> </p>
 
-- 🌱 I’m currently learning **Verilog,C,C++**
+- 🌱 I’m currently learning **ML and DL**
 
 - 🤝 I’m looking for help for **Internships**
 
